@@ -1,0 +1,47 @@
+{
+    "name": "ibm1970",
+    "displayName": "IBM 1970s dark color theme",
+    "description": "An IBM and 1970s inspired dark color theme",
+    "homepage": "https://github.com/andornaut/vscode-ibm1970-theme",
+    "icon": "icon.png",
+    "license": "MIT",
+    "publisher": "Andornaut",
+    "version": "0.2.2",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "id": "IBM 1970 Dark",
+                "label": "IBM 1970",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ibm1970-dark-color-theme.json"
+            }
+        ]
+    },
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "galleryBanner": {
+        "color": "#24201A",
+        "theme": "dark"
+    },
+    "keywords": [
+        "1970",
+        "brown",
+        "dark",
+        "green",
+        "ibm",
+        "solarized dark",
+        "solarized",
+        "teal"
+    ],
+    "bugs": {
+        "url": "https://github.com/andornaut/vscode-ibm1970-theme/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/andornaut/vscode-ibm1970-theme"
+    }
+}
