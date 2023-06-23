@@ -24,6 +24,8 @@
 		"editorGroup.dropBackground": "#24201A",
 		"editorGroupHeader.tabsBackground": "#9c9977",
 		"editorGutter.background": "#7c7755",
+		"editorInlayHint.background": "#393626f0",
+		"editorInlayHint.foreground": "#7c7755",
 		"editorLineNumber.activeForeground": "#dddccc",
 		"editorLineNumber.foreground": "#393626",
 		"focusBorder": "#7c7755",
@@ -77,7 +79,10 @@
 			}
 		},
 		{
-			"scope": ["meta.embedded", "source.groovy.embedded"],
+			"scope": [
+				"meta.embedded",
+				"source.groovy.embedded"
+			],
 			"settings": {
 				"foreground": "#93A1A1"
 			}
