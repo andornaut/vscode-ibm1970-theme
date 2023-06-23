@@ -19,7 +19,8 @@ This color theme is part of the [IBM1970 desktop theme](https://github.com/andor
 
 ### Publishing
 
-* [Official docs](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
+* [Publishing extensions](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
+* [Get a Personal Access Token](https://code.visualstudio.com/api/working-with-extensions/publishing-extension#get-a-personal-access-token)
 
 ```
 nvm use
@@ -33,8 +34,7 @@ vsce publish minor
 vsce publish major
 ```
 
-### Documentation
+### Guides
 
 * [Extension guide: color theme](https://code.visualstudio.com/api/extension-guides/color-theme)
-* [Publishing extensions](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
 * [Theme color documentation](https://code.visualstudio.com/api/references/theme-color)
