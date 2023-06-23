@@ -19,10 +19,14 @@ This color theme is part of the [IBM1970 desktop theme](https://github.com/andor
 
 ### Publishing
 
+* [Official docs](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
+
 ```
-npm install -g vsce
+nvm use
+npm install -g @vscode/vsce
 vsce login Andornaut
 
+vsce package
 vsce publish
 vsce publish patch
 vsce publish minor
