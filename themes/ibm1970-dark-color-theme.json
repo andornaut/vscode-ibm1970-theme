@@ -11,6 +11,7 @@
 		"breadcrumb.background": "#7c7755",
 		"button.background": "#7c7755",
 		"checkbox.background": "#373424",
+		"debugIcon.breakpointForeground": "#ff00ff",
 		"dropdown.background": "#373424",
 		"editor.background": "#423f2e",
 		"editor.findMatchBackground": "#dddccc",
@@ -30,7 +31,7 @@
 		"editorLineNumber.foreground": "#373424",
 		"focusBorder": "#7c7755",
 		"gitDecoration.ignoredResourceForeground": "#24201A",
-		"gitDecoration.modifiedResourceForeground": "#eecc44",
+		"gitDecoration.modifiedResourceForeground": "#b5bd68",
 		"input.background": "#373424",
 		"list.activeSelectionBackground": "#373424",
 		"list.dropBackground": "#24201A",
@@ -70,7 +71,7 @@
 		"textLink.activeForeground": "#33A999",
 		"textLink.foreground": "#33A999",
 		"toolbar.activeBackground": "#545040",
-		"toolbar.hoverBackground": "#7c7755",
+		"toolbar.hoverBackground": "#7c7755"
 	},
 	"tokenColors": [
 		{
