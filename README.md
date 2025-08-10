@@ -22,16 +22,16 @@ This color theme is part of the [IBM1970 desktop theme](https://github.com/andor
 * [Publishing extensions](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
 * [Get a Personal Access Token](https://code.visualstudio.com/api/working-with-extensions/publishing-extension#get-a-personal-access-token)
 
-```
+```bash
 nvm use
-npm install -g @vscode/vsce
-vsce login Andornaut
+npm install @vscode/vsce
+npx vsce login Andornaut
 
-vsce package
-vsce publish
-vsce publish patch
-vsce publish minor
-vsce publish major
+npx vsce package
+npx vsce publish
+npx vsce publish patch
+npx vsce publish minor
+npx vsce publish major
 ```
 
 ### Guides
