@@ -39,7 +39,7 @@
 		"gitDecoration.addedResourceForeground": "#859900",
 		"gitDecoration.deletedResourceForeground": "#D30102",
 		"gitDecoration.ignoredResourceForeground": "#24201A",
-		"gitDecoration.modifiedResourceForeground": "#B58900",
+		"gitDecoration.modifiedResourceForeground": "#d2bb84",
 		"gitDecoration.untrackedResourceForeground": "#6C71C4",
 		"input.background": "#373424",
 		"list.activeSelectionBackground": "#373424",
