@@ -1,5 +1,7 @@
 node_modules/
 .vscode/**
 .vscode-test/**
-CLAUDE.md
-GEMINI.md
+screenshots/
+.gitignore
+.nvmrc
+package-lock.json
