@@ -16,32 +16,32 @@ This color theme is part of the [IBM1970 desktop theme](https://github.com/andor
 
 | Color | Hex | Usage |
 | ----- | --- | ----- |
-| ![#33A999](swatches/33a999.svg) Teal | `#33A999` | Accent — links, badges, peek view border |
-| ![#006B6B](swatches/006b6b.svg) Dark Teal | `#006B6B` | Editor selection |
-| ![#dddccc](swatches/dddccc.svg) Cream | `#dddccc` | Primary foreground |
-| ![#d2bb84](swatches/d2bb84.svg) Tan | `#d2bb84` | Modified files |
-| ![#9c9977](swatches/9c9977.svg) Khaki | `#9c9977` | Tab backgrounds, scrollbar, gutter headers |
-| ![#7c7755](swatches/7c7755.svg) Olive | `#7c7755` | UI borders, status bar, activity bar |
-| ![#545040](swatches/545040.svg) Dark Olive | `#545040` | Toolbar active |
-| ![#423f2e](swatches/423f2e.svg) Brown | `#423f2e` | Editor background |
-| ![#373424](swatches/373424.svg) Dark Brown | `#373424` | Panel backgrounds, inputs |
-| ![#24201A](swatches/24201a.svg) Near Black | `#24201A` | Drop backgrounds, shadows |
+| ![#33A999](swatches/33a999.png) Teal | `#33A999` | Accent — links, badges, peek view border |
+| ![#006B6B](swatches/006b6b.png) Dark Teal | `#006B6B` | Editor selection |
+| ![#dddccc](swatches/dddccc.png) Cream | `#dddccc` | Primary foreground |
+| ![#d2bb84](swatches/d2bb84.png) Tan | `#d2bb84` | Modified files |
+| ![#9c9977](swatches/9c9977.png) Khaki | `#9c9977` | Tab backgrounds, scrollbar, gutter headers |
+| ![#7c7755](swatches/7c7755.png) Olive | `#7c7755` | UI borders, status bar, activity bar |
+| ![#545040](swatches/545040.png) Dark Olive | `#545040` | Toolbar active |
+| ![#423f2e](swatches/423f2e.png) Brown | `#423f2e` | Editor background |
+| ![#373424](swatches/373424.png) Dark Brown | `#373424` | Panel backgrounds, inputs |
+| ![#24201A](swatches/24201a.png) Near Black | `#24201A` | Drop backgrounds, shadows |
 
 ### Syntax (Solarized Dark)
 
 | Color | Hex | Usage |
 | ----- | --- | ----- |
-| ![#859900](swatches/859900.svg) Green | `#859900` | Keywords, variable start, library class/type, diff inserted |
-| ![#2AA198](swatches/2aa198.svg) Cyan | `#2AA198` | Strings, markup inline |
-| ![#268BD2](swatches/268bd2.svg) Blue | `#268BD2` | Variables, functions, tags, headings, diff header |
-| ![#6C71C4](swatches/6c71c4.svg) Violet | `#6C71C4` | Inherited class |
-| ![#D33682](swatches/d33682.svg) Magenta | `#D33682` | Numbers, markup styling |
-| ![#CB4B16](swatches/cb4b16.svg) Orange | `#CB4B16` | Class names, constants, exceptions, diff changed |
-| ![#B58900](swatches/b58900.svg) Yellow | `#B58900` | Built-in constants, markup lists |
-| ![#DC322F](swatches/dc322f.svg) Red | `#DC322F` | Errors, regexp, invalid, diff deleted |
-| ![#93A1A1](swatches/93a1a1.svg) Light Gray | `#93A1A1` | Storage, tag attributes |
-| ![#839496](swatches/839496.svg) Base0 | `#839496` | Default foreground |
-| ![#586E75](swatches/586e75.svg) Dark Gray | `#586E75` | Comments, tag delimiters |
+| ![#859900](swatches/859900.png) Green | `#859900` | Keywords, variable start, library class/type, diff inserted |
+| ![#2AA198](swatches/2aa198.png) Cyan | `#2AA198` | Strings, markup inline |
+| ![#268BD2](swatches/268bd2.png) Blue | `#268BD2` | Variables, functions, tags, headings, diff header |
+| ![#6C71C4](swatches/6c71c4.png) Violet | `#6C71C4` | Inherited class |
+| ![#D33682](swatches/d33682.png) Magenta | `#D33682` | Numbers, markup styling |
+| ![#CB4B16](swatches/cb4b16.png) Orange | `#CB4B16` | Class names, constants, exceptions, diff changed |
+| ![#B58900](swatches/b58900.png) Yellow | `#B58900` | Built-in constants, markup lists |
+| ![#DC322F](swatches/dc322f.png) Red | `#DC322F` | Errors, regexp, invalid, diff deleted |
+| ![#93A1A1](swatches/93a1a1.png) Light Gray | `#93A1A1` | Storage, tag attributes |
+| ![#839496](swatches/839496.png) Base0 | `#839496` | Default foreground |
+| ![#586E75](swatches/586e75.png) Dark Gray | `#586E75` | Comments, tag delimiters |
 
 ## Developing
 
