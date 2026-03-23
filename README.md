@@ -56,10 +56,10 @@ This color theme is part of the [IBM1970 desktop theme](https://github.com/andor
 * [Get a Personal Access Token](https://code.visualstudio.com/api/working-with-extensions/publishing-extension#get-a-personal-access-token)
 
 ```bash
-nvm use
-npm install @vscode/vsce
-npx vsce login Andornaut
+npm install
+npm run swatches
 
+npx vsce login Andornaut
 npx vsce package
 npx vsce publish
 npx vsce publish patch
@@ -70,4 +70,5 @@ npx vsce publish major
 ### Guides
 
 * [Extension guide: color theme](https://code.visualstudio.com/api/extension-guides/color-theme)
-* [Theme color documentation](https://code.visualstudio.com/api/references/theme-color)
+* [Theme color documentation](https://code.visualstudio.com/api/references/theme-color) (incomplete — some keys are missing)
+* [colorRegistry.ts](https://github.com/microsoft/vscode/blob/main/src/vs/platform/theme/common/colorRegistry.ts) — authoritative source for all valid theme color keys
