@@ -4,7 +4,7 @@ An IBM and 1970s inspired dark color theme for [Visual Studio Code](https://code
 
 Download and install from the [Extension Marketplace](https://marketplace.visualstudio.com/items?itemName=Andornaut.ibm1970), or launch VS Code *Quick Open* (Ctrl+P), paste the following command, and press enter: `ext install Andornaut.ibm1970`
 
-![screenshot](./screenshots/ibm1970.png)
+![screenshot](./screenshot.png)
 
 This color theme uses [Solarized Dark](https://ethanschoonover.com/solarized/) [`tokenColors`](https://github.com/microsoft/vscode/blob/main/extensions/theme-solarized-dark/themes/solarized-dark-color-theme.json).
 
