@@ -53,7 +53,8 @@ This color theme is part of the [IBM1970 desktop theme](https://github.com/andor
 ### Publishing
 
 * [Publishing extensions](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
-* [Get a Personal Access Token](https://code.visualstudio.com/api/working-with-extensions/publishing-extension#get-a-personal-access-token)
+* [Get a Personal Access Token](https://code.visualstudio.com/api/working-with-extensions/publishing-extension#get-a-personal-access-token) — set **Organization** to **All accessible organizations**
+* [Manage publishers and extensions](https://marketplace.visualstudio.com/manage/publishers/Andornaut)
 
 ```bash
 npm install
@@ -61,7 +62,6 @@ npm run swatches
 
 npx vsce login Andornaut
 npx vsce package
-npx vsce publish
 npx vsce publish patch
 npx vsce publish minor
 npx vsce publish major
