@@ -16,8 +16,10 @@ This color theme is part of the [IBM1970 desktop theme](https://github.com/andor
 
 | Color | Hex | Usage |
 | ----- | --- | ----- |
-| ![#33A999](swatches/33a999.png) Teal | `#33A999` | Accent — links, badges, peek view border |
+| ![#33A999](swatches/33a999.png) Teal | `#33A999` | Accent — links, badges, borders, find match, tab top |
 | ![#006B6B](swatches/006b6b.png) Dark Teal | `#006B6B` | Editor selection |
+| ![#b05533](swatches/b05533.png) Rust | `#b05533` | Inlay hints, sticky scroll gutter, notifications, status bar |
+| ![#ffffff](swatches/ffffff.png) White | `#ffffff` | Inactive title bar foreground |
 | ![#dddccc](swatches/dddccc.png) Cream | `#dddccc` | Primary foreground |
 | ![#d2bb84](swatches/d2bb84.png) Tan | `#d2bb84` | Modified files |
 | ![#9c9977](swatches/9c9977.png) Khaki | `#9c9977` | Tab backgrounds, scrollbar, gutter headers |
