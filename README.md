@@ -18,7 +18,7 @@ This color theme is part of the [IBM1970 desktop theme](https://github.com/andor
 | ----- | --- | ----- |
 | ![#33A999](swatches/33a999.png) Teal | `#33A999` | Accent — links, badges, borders, find match, tab top |
 | ![#006B6B](swatches/006b6b.png) Dark Teal | `#006B6B` | Editor selection |
-| ![#b05533](swatches/b05533.png) Rust | `#b05533` | Inlay hints, sticky scroll gutter, notifications, status bar |
+| ![#b05533](swatches/b05533.png) Rust | `#b05533` | Inlay hints, sticky scroll gutter, notifications, status bar, sash hover, scrollbar active/hover |
 | ![#ffffff](swatches/ffffff.png) White | `#ffffff` | Inactive title bar foreground |
 | ![#dddccc](swatches/dddccc.png) Cream | `#dddccc` | Primary foreground |
 | ![#d2bb84](swatches/d2bb84.png) Tan | `#d2bb84` | Modified files |
@@ -26,7 +26,7 @@ This color theme is part of the [IBM1970 desktop theme](https://github.com/andor
 | ![#7c7755](swatches/7c7755.png) Olive | `#7c7755` | UI borders, status bar, activity bar |
 | ![#545040](swatches/545040.png) Dark Olive | `#545040` | Toolbar active |
 | ![#423f2e](swatches/423f2e.png) Brown | `#423f2e` | Editor background |
-| ![#373424](swatches/373424.png) Dark Brown | `#373424` | Panel backgrounds, inputs |
+| ![#373424](swatches/373424.png) Dark Brown | `#373424` | Panel backgrounds, inputs, terminal background |
 | ![#24201A](swatches/24201a.png) Near Black | `#24201A` | Drop backgrounds, shadows |
 
 ### Syntax (Solarized Dark)
