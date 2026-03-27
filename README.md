@@ -20,7 +20,8 @@ This color theme is part of the [IBM1970 desktop theme](https://github.com/andor
 | ----- | --- | ----- |
 | ![#33A999](swatches/33a999.png) Teal | `#33A999` | Accent — links, badges, borders, find match, tab top |
 | ![#006B6B](swatches/006b6b.png) Dark Teal | `#006B6B` | Editor selection |
-| ![#b05533](swatches/b05533.png) Rust | `#b05533` | Inlay hints, sticky scroll gutter, notifications, status bar, sash hover, scrollbar active/hover |
+| ![#D30102](swatches/d30102.png) Red | `#D30102` | Errors, git deleted |
+| ![#b05533](swatches/b05533.png) Rust | `#b05533` | Inlay hints, sticky scroll gutter, notification toast border, prominent status bar items, sash hover, scrollbar active/hover |
 | ![#ffffff](swatches/ffffff.png) White | `#ffffff` | Inactive title bar foreground |
 | ![#dddccc](swatches/dddccc.png) Cream | `#dddccc` | Primary foreground |
 | ![#d2bb84](swatches/d2bb84.png) Tan | `#d2bb84` | Modified files |
