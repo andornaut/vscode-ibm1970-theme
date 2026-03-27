@@ -8,7 +8,7 @@ An IBM and 1970s inspired dark color theme for [Visual Studio Code](https://code
    * Alternatively, press CTRL+p to open the "Quick Open" menu, and run the following command: `ext install Andornaut.ibm1970`
 1. Select: File > Preferences > Themes > Color Theme > IBM 1970
 
-![screenshot](./screenshot.png)
+[![screenshot](./screenshot.png)](./screenshot.png)
 
 This color theme is part of the [IBM1970 desktop theme](https://github.com/andornaut/ibm1970-desktop-theme).
 
