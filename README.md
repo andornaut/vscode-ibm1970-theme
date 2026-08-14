@@ -1,5 +1,8 @@
 # IBM1970 theme for Visual Studio Code
 
+[![CI](https://github.com/andornaut/vscode-ibm1970-theme/actions/workflows/release.yml/badge.svg)](https://github.com/andornaut/vscode-ibm1970-theme/actions/workflows/release.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 An IBM and 1970s inspired dark color theme for [Visual Studio Code](https://code.visualstudio.com).
 
 ## Installation
