@@ -21,7 +21,7 @@ This color theme is part of the [IBM1970 desktop theme](https://github.com/andor
 
 | Color | Hex | Usage |
 | ----- | --- | ----- |
-| ![#33A999](swatches/33a999.png) Teal | `#33A999` | Accent — links, badges, borders, find match, tab top |
+| ![#33A999](swatches/33a999.png) Teal | `#33A999` | Accent: links, badges, borders, find match, tab top |
 | ![#006B6B](swatches/006b6b.png) Dark Teal | `#006B6B` | Editor selection |
 | ![#D30102](swatches/d30102.png) Red | `#D30102` | Errors, git deleted |
 | ![#b05533](swatches/b05533.png) Rust | `#b05533` | Inlay hints, sticky scroll gutter, notification toast border, prominent status bar items, sash hover, scrollbar active/hover |
@@ -68,7 +68,7 @@ A [Release workflow](.github/workflows/release.yml) runs on every push to `main`
 To publish to the VS Code Marketplace:
 
 * [Publishing extensions](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
-* [Get a Personal Access Token](https://code.visualstudio.com/api/working-with-extensions/publishing-extension#get-a-personal-access-token) — set **Organization** to **All accessible organizations**
+* [Get a Personal Access Token](https://code.visualstudio.com/api/working-with-extensions/publishing-extension#get-a-personal-access-token): set **Organization** to **All accessible organizations**
 * [Manage publishers and extensions](https://marketplace.visualstudio.com/manage/publishers/Andornaut)
 
 ```bash
@@ -81,5 +81,5 @@ npx vsce publish
 ### Guides
 
 * [Extension guide: color theme](https://code.visualstudio.com/api/extension-guides/color-theme)
-* [colorRegistry.ts](https://github.com/microsoft/vscode/blob/main/src/vs/platform/theme/common/colorRegistry.ts) — authoritative source for all valid theme color keys
+* [colorRegistry.ts](https://github.com/microsoft/vscode/blob/main/src/vs/platform/theme/common/colorRegistry.ts): authoritative source for all valid theme color keys
 * [Theme color documentation](https://code.visualstudio.com/api/references/theme-color)
