@@ -8,7 +8,7 @@ An IBM and 1970s inspired dark color theme for [Visual Studio Code](https://code
 ## Installation
 
 1. Install from the [Extension Marketplace](https://marketplace.visualstudio.com/items?itemName=Andornaut.ibm1970)
-   * Alternatively, press CTRL+p to open the "Quick Open" menu, and run the following command: `ext install Andornaut.ibm1970`
+   - Alternatively, press CTRL+p to open the "Quick Open" menu, and run the following command: `ext install Andornaut.ibm1970`
 1. Select: File > Preferences > Themes > Color Theme > IBM 1970
 
 [![screenshot](./screenshot.png)](./screenshot.png)
@@ -19,39 +19,39 @@ This color theme is part of the [IBM1970 desktop theme](https://github.com/andor
 
 ### UI
 
-| Color | Hex | Usage |
-| ----- | --- | ----- |
-| ![#33A999](swatches/33a999.png) Teal | `#33A999` | Accent: links, badges, borders, find match, tab top |
-| ![#006B6B](swatches/006b6b.png) Dark Teal | `#006B6B` | Editor selection |
-| ![#D30102](swatches/d30102.png) Red | `#D30102` | Errors, git deleted |
-| ![#b05533](swatches/b05533.png) Rust | `#b05533` | Inlay hints, sticky scroll gutter, notification toast border, prominent status bar items, sash hover, scrollbar active/hover |
-| ![#ffffff](swatches/ffffff.png) White | `#ffffff` | Inactive title bar foreground |
-| ![#dddccc](swatches/dddccc.png) Cream | `#dddccc` | Primary foreground |
-| ![#d2bb84](swatches/d2bb84.png) Tan | `#d2bb84` | Modified files |
-| ![#9c9977](swatches/9c9977.png) Khaki | `#9c9977` | Tab backgrounds, scrollbar, gutter headers |
-| ![#7c7755](swatches/7c7755.png) Olive | `#7c7755` | UI borders, status bar, activity bar |
-| ![#545040](swatches/545040.png) Dark Olive | `#545040` | Toolbar active |
-| ![#423f2e](swatches/423f2e.png) Brown | `#423f2e` | Editor background |
-| ![#373424](swatches/373424.png) Dark Brown | `#373424` | Panel backgrounds, inputs, terminal background |
-| ![#24201A](swatches/24201a.png) Near Black | `#24201A` | Drop backgrounds, shadows |
+| Color                                      | Hex       | Usage                                                                                                                        |
+| ------------------------------------------ | --------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| ![#33A999](swatches/33a999.png) Teal       | `#33A999` | Accent: links, badges, borders, find match, tab top                                                                          |
+| ![#006B6B](swatches/006b6b.png) Dark Teal  | `#006B6B` | Editor selection                                                                                                             |
+| ![#D30102](swatches/d30102.png) Red        | `#D30102` | Errors, git deleted                                                                                                          |
+| ![#b05533](swatches/b05533.png) Rust       | `#b05533` | Inlay hints, sticky scroll gutter, notification toast border, prominent status bar items, sash hover, scrollbar active/hover |
+| ![#ffffff](swatches/ffffff.png) White      | `#ffffff` | Inactive title bar foreground                                                                                                |
+| ![#dddccc](swatches/dddccc.png) Cream      | `#dddccc` | Primary foreground                                                                                                           |
+| ![#d2bb84](swatches/d2bb84.png) Tan        | `#d2bb84` | Modified files                                                                                                               |
+| ![#9c9977](swatches/9c9977.png) Khaki      | `#9c9977` | Tab backgrounds, scrollbar, gutter headers                                                                                   |
+| ![#7c7755](swatches/7c7755.png) Olive      | `#7c7755` | UI borders, status bar, activity bar                                                                                         |
+| ![#545040](swatches/545040.png) Dark Olive | `#545040` | Toolbar active                                                                                                               |
+| ![#423f2e](swatches/423f2e.png) Brown      | `#423f2e` | Editor background                                                                                                            |
+| ![#373424](swatches/373424.png) Dark Brown | `#373424` | Panel backgrounds, inputs, terminal background                                                                               |
+| ![#24201A](swatches/24201a.png) Near Black | `#24201A` | Drop backgrounds, shadows                                                                                                    |
 
 ### Syntax
 
 This color theme uses [Solarized Dark](https://ethanschoonover.com/solarized/) [`tokenColors`](https://github.com/microsoft/vscode/blob/main/extensions/theme-solarized-dark/themes/solarized-dark-color-theme.json).
 
-| Color | Hex | Usage |
-| ----- | --- | ----- |
-| ![#859900](swatches/859900.png) Green | `#859900` | Keywords, variable start, library class/type, diff inserted |
-| ![#2AA198](swatches/2aa198.png) Cyan | `#2AA198` | Strings, markup inline |
-| ![#268BD2](swatches/268bd2.png) Blue | `#268BD2` | Variables, functions, tags, headings, diff header |
-| ![#6C71C4](swatches/6c71c4.png) Violet | `#6C71C4` | Inherited class |
-| ![#D33682](swatches/d33682.png) Magenta | `#D33682` | Numbers, markup styling |
-| ![#CB4B16](swatches/cb4b16.png) Orange | `#CB4B16` | Class names, constants, exceptions, diff changed |
-| ![#B58900](swatches/b58900.png) Yellow | `#B58900` | Built-in constants, markup lists |
-| ![#DC322F](swatches/dc322f.png) Red | `#DC322F` | Errors, regexp, invalid, diff deleted |
-| ![#93A1A1](swatches/93a1a1.png) Light Gray | `#93A1A1` | Storage, tag attributes |
-| ![#839496](swatches/839496.png) Base0 | `#839496` | Default foreground |
-| ![#586E75](swatches/586e75.png) Dark Gray | `#586E75` | Comments, tag delimiters |
+| Color                                      | Hex       | Usage                                                       |
+| ------------------------------------------ | --------- | ----------------------------------------------------------- |
+| ![#859900](swatches/859900.png) Green      | `#859900` | Keywords, variable start, library class/type, diff inserted |
+| ![#2AA198](swatches/2aa198.png) Cyan       | `#2AA198` | Strings, markup inline                                      |
+| ![#268BD2](swatches/268bd2.png) Blue       | `#268BD2` | Variables, functions, tags, headings, diff header           |
+| ![#6C71C4](swatches/6c71c4.png) Violet     | `#6C71C4` | Inherited class                                             |
+| ![#D33682](swatches/d33682.png) Magenta    | `#D33682` | Numbers, markup styling                                     |
+| ![#CB4B16](swatches/cb4b16.png) Orange     | `#CB4B16` | Class names, constants, exceptions, diff changed            |
+| ![#B58900](swatches/b58900.png) Yellow     | `#B58900` | Built-in constants, markup lists                            |
+| ![#DC322F](swatches/dc322f.png) Red        | `#DC322F` | Errors, regexp, invalid, diff deleted                       |
+| ![#93A1A1](swatches/93a1a1.png) Light Gray | `#93A1A1` | Storage, tag attributes                                     |
+| ![#839496](swatches/839496.png) Base0      | `#839496` | Default foreground                                          |
+| ![#586E75](swatches/586e75.png) Dark Gray  | `#586E75` | Comments, tag delimiters                                    |
 
 Color swatches are generated by [color-swatches-action](https://github.com/andornaut/color-swatches-action).
 
@@ -67,9 +67,9 @@ A [Release workflow](.github/workflows/release.yml) runs on every push to `main`
 
 To publish to the VS Code Marketplace:
 
-* [Publishing extensions](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
-* [Get a Personal Access Token](https://code.visualstudio.com/api/working-with-extensions/publishing-extension#get-a-personal-access-token): set **Organization** to **All accessible organizations**
-* [Manage publishers and extensions](https://marketplace.visualstudio.com/manage/publishers/Andornaut)
+- [Publishing extensions](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
+- [Get a Personal Access Token](https://code.visualstudio.com/api/working-with-extensions/publishing-extension#get-a-personal-access-token): set **Organization** to **All accessible organizations**
+- [Manage publishers and extensions](https://marketplace.visualstudio.com/manage/publishers/Andornaut)
 
 ```bash
 npm version patch  # or minor, major
@@ -80,6 +80,6 @@ npx vsce publish
 
 ### Guides
 
-* [Extension guide: color theme](https://code.visualstudio.com/api/extension-guides/color-theme)
-* [colorRegistry.ts](https://github.com/microsoft/vscode/blob/main/src/vs/platform/theme/common/colorRegistry.ts): authoritative source for all valid theme color keys
-* [Theme color documentation](https://code.visualstudio.com/api/references/theme-color)
+- [Extension guide: color theme](https://code.visualstudio.com/api/extension-guides/color-theme)
+- [colorRegistry.ts](https://github.com/microsoft/vscode/blob/main/src/vs/platform/theme/common/colorRegistry.ts): authoritative source for all valid theme color keys
+- [Theme color documentation](https://code.visualstudio.com/api/references/theme-color)
