@@ -5,6 +5,7 @@
   "homepage": "https://github.com/andornaut/vscode-ibm1970-theme",
   "icon": "icon.png",
   "license": "MIT",
+  "private": true,
   "publisher": "Andornaut",
   "version": "0.3.7",
   "categories": [
